@@ -34,3 +34,6 @@ var equalFrequency = function (word) {
     }
     return false;
 };
+
+
+///哈哈哈
