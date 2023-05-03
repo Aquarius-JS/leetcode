@@ -20,4 +20,3 @@ var sortPeople = function (names, heights) {
     }
     return arr3;
 };
-//测试提交
